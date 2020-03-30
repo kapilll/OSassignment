@@ -7,7 +7,7 @@ REQUIREMENTS
 How to run
 Steps
 
-Clone the repository: git clone https://github.com/rishabhm74/osAssignment.git
+Clone the repository: git clone https://github.com/kapilll/OSassignment.git
 Compile the first program with GCC installed: gcc part1Program.c -outputFilename -lpthread
 Compile the second program with GCC installed: gcc part2Program.c -outputFilename2
 Run the output file of program 1: ./outputFilename
